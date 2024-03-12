@@ -32,4 +32,5 @@ def main():
             break      
     print("遊戲結束!")
 
-main()
+if __name__ == '__main__':
+    main()
