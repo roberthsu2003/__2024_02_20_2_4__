@@ -8,7 +8,7 @@ def inputFloat(prompt:str,min:float,max:float)->float:
                 value = print("輸入的範圍有問題請重新輸入")                
         except:
            print("格式有問題請重新輸入")
-           continue
+           
             
         
         
